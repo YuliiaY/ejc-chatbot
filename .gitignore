@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Chainlit
+.chainlit/
+
+# Chroma DB
+chroma_db/
